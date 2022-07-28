@@ -1,0 +1,16 @@
+.btn{
+    border-radius: 5px;
+    border: 2px solid #454567;
+    margin: 20px;
+    padding: 10px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    cursor: pointer;
+    transition: ease-in-out 0.2s;
+    
+}
+
+.btn:hover{
+    color: gray; 
+    border-radius: 20px;
+}
